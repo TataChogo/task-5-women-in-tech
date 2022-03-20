@@ -1,0 +1,128 @@
+.html{
+	background-color: #F6F8F9;
+}
+.logo{
+	display: inline-block;
+	width: 38px;
+	height: 15px;
+	font-size: 13;
+	font-weight: bold;
+	color: #FA6980;
+	margin: 18px 92px 17px 20px;
+}
+.home{
+	display: inline-block;
+	width: 33px;
+	height: 12px;
+	font-size: 11px;
+	font-weight: bold;
+	color: #343638;
+	margin-right: 27px;
+}
+.navli{
+	display: inline-block;
+	height: 12px;
+	font-size: 11px;
+	font-weight: bold;
+	color: #343638;
+	margin-left: 22px;
+
+}
+.pic1{
+	display: inline-block;
+	margin-top: 11px;
+	margin-left: 40px;
+	vertical-align: top;
+}
+.section{
+	width: 1160px;
+    margin: 0 auto;
+}
+.sat1{
+	margin-bottom: 40px;
+	margin-top: 27px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    margin-left: 140px;
+}
+.first{
+	display: inline-block;
+	position: relative;
+    vertical-align: middle;
+    margin-right: 40px;
+    margin-left: 140px;
+    width: 360px;
+    height: 350px;
+    
+}
+.middle{
+	display: inline-block;
+	position: relative;
+    vertical-align: middle;
+    margin-right: 40px;
+    width: 360px;
+    height: 350px;
+ }
+.last{
+	display: inline-block;
+	position: relative;
+    vertical-align: middle;
+    width: 360px;
+    height: 350px;
+ }
+ .pictext{
+ 	position: absolute;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    top: 28px;
+    left: 40px;
+ }
+ .text{
+ 	background-color: white;
+    font-size: 13px;
+    padding: 66px 40px;
+    width: 360px;
+    color:#A6ADB4;
+ }
+ .left{
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    width: 760px;
+    margin-left: 140px;
+    margin-right: 40px;
+ }
+ .right{
+ 	display: inline-block;
+ 	position: relative;
+    vertical-align: top;
+    width: 360px;
+ }
+ .picstext2{
+ 	position: absolute;
+ 	color: white;
+    font-size: 16px;
+    font-weight: bold;
+    bottom: 490px;
+    right: 20px;
+
+ }
+ .picstext3{
+ 	position: absolute;
+ 	color: white;
+    font-size: 16px;
+    font-weight: bold;
+    top: 18px;
+    left: 40px;
+
+ }
+ .pic2{
+ 	margin-bottom: 40px;
+ }
+ .pic3{
+ 	margin-top: 102px;
+ 	margin-bottom: 102px;
+ }
+ 
